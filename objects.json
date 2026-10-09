@@ -1,0 +1,5062 @@
+[
+    {
+        "name": "electrical_speed",
+        "type": "byte",
+        "value": 2
+    },
+    { 
+        "name": "electrical_speed_000", 
+        "type": "float", 
+        "value": 623.4187 
+    }, 
+    { 
+        "name": "nano_id_001", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_002", 
+        "type": "double", 
+        "value": -452.9812 
+    }, 
+    { 
+        "name": "user_flag_003", 
+        "type": "boolean", 
+        "value": true 
+    }, 
+    { 
+        "name": "system_level_004", 
+        "type": "byte", 
+        "value": 189 
+    },
+    {
+        "name": "electrical_speed_002",
+        "type": "byte",
+        "value": 4
+    },
+    { 
+        "name": "electrical_speed_005", 
+        "type": "float", 
+        "value": 463.4517 
+    }, 
+    { 
+        "name": "nano_id_002", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_003", 
+        "type": "double", 
+        "value": -452.9812 
+    },
+    {
+        "name": "electrical_speed",
+        "type": "byte",
+        "value": 2
+    },
+    { 
+        "name": "electrical_speed_000", 
+        "type": "float", 
+        "value": 623.4187 
+    }, 
+    { 
+        "name": "nano_id_001", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_002", 
+        "type": "double", 
+        "value": -452.9812 
+    }, 
+    { 
+        "name": "user_flag_003", 
+        "type": "boolean", 
+        "value": true 
+    }, 
+    { 
+        "name": "system_level_004", 
+        "type": "byte", 
+        "value": 189 
+    },
+    {
+        "name": "electrical_speed_002",
+        "type": "byte",
+        "value": 4
+    },
+    { 
+        "name": "electrical_speed_005", 
+        "type": "float", 
+        "value": 463.4517 
+    }, 
+    { 
+        "name": "nano_id_002", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_003", 
+        "type": "double", 
+        "value": -452.9812 
+    },
+    {
+        "name": "electrical_speed",
+        "type": "byte",
+        "value": 2
+    },
+    { 
+        "name": "electrical_speed_000", 
+        "type": "float", 
+        "value": 623.4187 
+    }, 
+    { 
+        "name": "nano_id_001", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_002", 
+        "type": "double", 
+        "value": -452.9812 
+    }, 
+    { 
+        "name": "user_flag_003", 
+        "type": "boolean", 
+        "value": true 
+    }, 
+    { 
+        "name": "system_level_004", 
+        "type": "byte", 
+        "value": 189 
+    },
+    {
+        "name": "electrical_speed_002",
+        "type": "byte",
+        "value": 4
+    },
+    { 
+        "name": "electrical_speed_005", 
+        "type": "float", 
+        "value": 463.4517 
+    }, 
+    { 
+        "name": "nano_id_002", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_003", 
+        "type": "double", 
+        "value": -452.9812 
+    },
+    {
+        "name": "electrical_speed",
+        "type": "byte",
+        "value": 2
+    },
+    { 
+        "name": "electrical_speed_000", 
+        "type": "float", 
+        "value": 623.4187 
+    }, 
+    { 
+        "name": "nano_id_001", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_002", 
+        "type": "double", 
+        "value": -452.9812 
+    }, 
+    { 
+        "name": "user_flag_003", 
+        "type": "boolean", 
+        "value": true 
+    }, 
+    { 
+        "name": "system_level_004", 
+        "type": "byte", 
+        "value": 189 
+    },
+    {
+        "name": "electrical_speed_002",
+        "type": "byte",
+        "value": 4
+    },
+    { 
+        "name": "electrical_speed_005", 
+        "type": "float", 
+        "value": 463.4517 
+    }, 
+    { 
+        "name": "nano_id_002", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_003", 
+        "type": "double", 
+        "value": -452.9812 
+    },
+    {
+        "name": "electrical_speed",
+        "type": "byte",
+        "value": 2
+    },
+    { 
+        "name": "electrical_speed_000", 
+        "type": "float", 
+        "value": 623.4187 
+    }, 
+    { 
+        "name": "nano_id_001", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_002", 
+        "type": "double", 
+        "value": -452.9812 
+    }, 
+    { 
+        "name": "user_flag_003", 
+        "type": "boolean", 
+        "value": true 
+    }, 
+    { 
+        "name": "system_level_004", 
+        "type": "byte", 
+        "value": 189 
+    },
+    {
+        "name": "electrical_speed_002",
+        "type": "byte",
+        "value": 4
+    },
+    { 
+        "name": "electrical_speed_005", 
+        "type": "float", 
+        "value": 463.4517 
+    }, 
+    { 
+        "name": "nano_id_002", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_003", 
+        "type": "double", 
+        "value": -452.9812 
+    },
+    {
+        "name": "electrical_speed",
+        "type": "byte",
+        "value": 2
+    },
+    { 
+        "name": "electrical_speed_000", 
+        "type": "float", 
+        "value": 623.4187 
+    }, 
+    { 
+        "name": "nano_id_001", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_002", 
+        "type": "double", 
+        "value": -452.9812 
+    }, 
+    { 
+        "name": "user_flag_003", 
+        "type": "boolean", 
+        "value": true 
+    }, 
+    { 
+        "name": "system_level_004", 
+        "type": "byte", 
+        "value": 189 
+    },
+    {
+        "name": "electrical_speed_002",
+        "type": "byte",
+        "value": 4
+    },
+    { 
+        "name": "electrical_speed_005", 
+        "type": "float", 
+        "value": 463.4517 
+    }, 
+    { 
+        "name": "nano_id_002", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_003", 
+        "type": "double", 
+        "value": -452.9812 
+    },
+    {
+        "name": "electrical_speed",
+        "type": "byte",
+        "value": 2
+    },
+    { 
+        "name": "electrical_speed_000", 
+        "type": "float", 
+        "value": 623.4187 
+    }, 
+    { 
+        "name": "nano_id_001", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_002", 
+        "type": "double", 
+        "value": -452.9812 
+    }, 
+    { 
+        "name": "user_flag_003", 
+        "type": "boolean", 
+        "value": true 
+    }, 
+    { 
+        "name": "system_level_004", 
+        "type": "byte", 
+        "value": 189 
+    },
+    {
+        "name": "electrical_speed_002",
+        "type": "byte",
+        "value": 4
+    },
+    { 
+        "name": "electrical_speed_005", 
+        "type": "float", 
+        "value": 463.4517 
+    }, 
+    { 
+        "name": "nano_id_002", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_003", 
+        "type": "double", 
+        "value": -452.9812 
+    },
+    {
+        "name": "electrical_speed",
+        "type": "byte",
+        "value": 2
+    },
+    { 
+        "name": "electrical_speed_000", 
+        "type": "float", 
+        "value": 623.4187 
+    }, 
+    { 
+        "name": "nano_id_001", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_002", 
+        "type": "double", 
+        "value": -452.9812 
+    }, 
+    { 
+        "name": "user_flag_003", 
+        "type": "boolean", 
+        "value": true 
+    }, 
+    { 
+        "name": "system_level_004", 
+        "type": "byte", 
+        "value": 189 
+    },
+    {
+        "name": "electrical_speed_002",
+        "type": "byte",
+        "value": 4
+    },
+    { 
+        "name": "electrical_speed_005", 
+        "type": "float", 
+        "value": 463.4517 
+    }, 
+    { 
+        "name": "nano_id_002", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_003", 
+        "type": "double", 
+        "value": -452.9812 
+    },
+    {
+        "name": "electrical_speed",
+        "type": "byte",
+        "value": 2
+    },
+    { 
+        "name": "electrical_speed_000", 
+        "type": "float", 
+        "value": 623.4187 
+    }, 
+    { 
+        "name": "nano_id_001", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_002", 
+        "type": "double", 
+        "value": -452.9812 
+    }, 
+    { 
+        "name": "user_flag_003", 
+        "type": "boolean", 
+        "value": true 
+    }, 
+    { 
+        "name": "system_level_004", 
+        "type": "byte", 
+        "value": 189 
+    },
+    {
+        "name": "electrical_speed_002",
+        "type": "byte",
+        "value": 4
+    },
+    { 
+        "name": "electrical_speed_005", 
+        "type": "float", 
+        "value": 463.4517 
+    }, 
+    { 
+        "name": "nano_id_002", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_003", 
+        "type": "double", 
+        "value": -452.9812 
+    },
+    {
+        "name": "electrical_speed",
+        "type": "byte",
+        "value": 2
+    },
+    { 
+        "name": "electrical_speed_000", 
+        "type": "float", 
+        "value": 623.4187 
+    }, 
+    { 
+        "name": "nano_id_001", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_002", 
+        "type": "double", 
+        "value": -452.9812 
+    }, 
+    { 
+        "name": "user_flag_003", 
+        "type": "boolean", 
+        "value": true 
+    }, 
+    { 
+        "name": "system_level_004", 
+        "type": "byte", 
+        "value": 189 
+    },
+    {
+        "name": "electrical_speed_002",
+        "type": "byte",
+        "value": 4
+    },
+    { 
+        "name": "electrical_speed_005", 
+        "type": "float", 
+        "value": 463.4517 
+    }, 
+    { 
+        "name": "nano_id_002", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_003", 
+        "type": "double", 
+        "value": -452.9812 
+    },
+    {
+    "name": "motor_speed",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "motor_current",
+    "type": "int",
+    "value": 26
+  },
+  {
+    "name": "motor_voltage",
+    "type": "float",
+    "value": 5.1
+  },
+  {
+    "name": "motor_power",
+    "type": "string",
+    "value": "value_005"
+  },
+  {
+    "name": "motor_torque",
+    "type": "byte",
+    "value": 37
+  },
+  {
+    "name": "dc_bus_voltage",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "phase_current_a",
+    "type": "int",
+    "value": 91
+  },
+  {
+    "name": "phase_current_b",
+    "type": "float",
+    "value": 13.6
+  },
+  {
+    "name": "phase_current_c",
+    "type": "string",
+    "value": "value_010"
+  },
+  {
+    "name": "phase_voltage_a",
+    "type": "byte",
+    "value": 72
+  },
+  {
+    "name": "phase_voltage_b",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "phase_voltage_c",
+    "type": "int",
+    "value": 156
+  },
+  {
+    "name": "frequency",
+    "type": "float",
+    "value": 22.1
+  },
+  {
+    "name": "power_factor",
+    "type": "string",
+    "value": "value_015"
+  },
+  {
+    "name": "active_power",
+    "type": "byte",
+    "value": 107
+  },
+  {
+    "name": "reactive_power",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "apparent_power",
+    "type": "int",
+    "value": 221
+  },
+  {
+    "name": "energy_total",
+    "type": "float",
+    "value": 30.6
+  },
+  {
+    "name": "energy_daily",
+    "type": "string",
+    "value": "value_020"
+  },
+  {
+    "name": "temperature_motor",
+    "type": "byte",
+    "value": 142
+  },
+  {
+    "name": "temperature_drive",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "temperature_ambient",
+    "type": "int",
+    "value": 286
+  },
+  {
+    "name": "temperature_heatsink",
+    "type": "float",
+    "value": 39.1
+  },
+  {
+    "name": "pressure_inlet",
+    "type": "string",
+    "value": "value_025"
+  },
+  {
+    "name": "pressure_outlet",
+    "type": "byte",
+    "value": 177
+  },
+  {
+    "name": "flow_rate",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "humidity",
+    "type": "int",
+    "value": 351
+  },
+  {
+    "name": "vibration_level",
+    "type": "float",
+    "value": 47.6
+  },
+  {
+    "name": "position_actual",
+    "type": "string",
+    "value": "value_030"
+  },
+  {
+    "name": "position_target",
+    "type": "byte",
+    "value": 212
+  },
+  {
+    "name": "velocity_actual",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "acceleration_actual",
+    "type": "int",
+    "value": 416
+  },
+  {
+    "name": "torque_limit",
+    "type": "float",
+    "value": 56.1
+  },
+  {
+    "name": "current_limit",
+    "type": "string",
+    "value": "value_035"
+  },
+  {
+    "name": "voltage_limit",
+    "type": "byte",
+    "value": 247
+  },
+  {
+    "name": "speed_limit",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "ramp_up_time",
+    "type": "int",
+    "value": 481
+  },
+  {
+    "name": "ramp_down_time",
+    "type": "float",
+    "value": 64.6
+  },
+  {
+    "name": "brake_status",
+    "type": "string",
+    "value": "value_040"
+  },
+  {
+    "name": "contactor_status",
+    "type": "byte",
+    "value": 26
+  },
+  {
+    "name": "relay_status",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "fault_code",
+    "type": "int",
+    "value": 546
+  },
+  {
+    "name": "warning_code",
+    "type": "float",
+    "value": 73.1
+  },
+  {
+    "name": "alarm_active",
+    "type": "string",
+    "value": "value_045"
+  },
+  {
+    "name": "ready_status",
+    "type": "byte",
+    "value": 61
+  },
+  {
+    "name": "running_status",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "enabled_status",
+    "type": "int",
+    "value": 611
+  },
+  {
+    "name": "remote_mode",
+    "type": "float",
+    "value": 81.6
+  },
+  {
+    "name": "local_mode",
+    "type": "string",
+    "value": "value_050"
+  },
+  {
+    "name": "communication_status",
+    "type": "byte",
+    "value": 96
+  },
+  {
+    "name": "network_quality",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "signal_strength",
+    "type": "int",
+    "value": 676
+  },
+  {
+    "name": "uptime_seconds",
+    "type": "float",
+    "value": 90.1
+  },
+  {
+    "name": "runtime_hours",
+    "type": "string",
+    "value": "value_055"
+  },
+  {
+    "name": "start_count",
+    "type": "byte",
+    "value": 131
+  },
+  {
+    "name": "stop_count",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "reset_count",
+    "type": "int",
+    "value": 741
+  },
+  {
+    "name": "firmware_version",
+    "type": "float",
+    "value": 98.6
+  },
+  {
+    "name": "hardware_revision",
+    "type": "string",
+    "value": "value_060"
+  },
+  {
+    "name": "device_address",
+    "type": "byte",
+    "value": 166
+  },
+  {
+    "name": "baud_rate",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "parity_mode",
+    "type": "int",
+    "value": 806
+  },
+  {
+    "name": "stop_bits",
+    "type": "float",
+    "value": 107.1
+  },
+  {
+    "name": "data_bits",
+    "type": "string",
+    "value": "value_065"
+  },
+  {
+    "name": "can_bus_status",
+    "type": "byte",
+    "value": 201
+  },
+  {
+    "name": "modbus_status",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "ethernet_status",
+    "type": "int",
+    "value": 871
+  },
+  {
+    "name": "wifi_status",
+    "type": "float",
+    "value": 115.6
+  },
+  {
+    "name": "sensor_status",
+    "type": "string",
+    "value": "value_070"
+  },
+  {
+    "name": "encoder_count",
+    "type": "byte",
+    "value": 236
+  },
+  {
+    "name": "encoder_resolution",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "gear_ratio",
+    "type": "int",
+    "value": 936
+  },
+  {
+    "name": "motor_poles",
+    "type": "float",
+    "value": 124.1
+  },
+  {
+    "name": "rated_current",
+    "type": "string",
+    "value": "value_075"
+  },
+  {
+    "name": "rated_voltage",
+    "type": "byte",
+    "value": 15
+  },
+  {
+    "name": "rated_power",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "rated_frequency",
+    "type": "int",
+    "value": 1001
+  },
+  {
+    "name": "rated_speed",
+    "type": "float",
+    "value": 132.6
+  },
+  {
+    "name": "rated_torque",
+    "type": "string",
+    "value": "value_080"
+  },
+  {
+    "name": "overload_threshold",
+    "type": "byte",
+    "value": 50
+  },
+  {
+    "name": "overtemperature_threshold",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "undervoltage_threshold",
+    "type": "int",
+    "value": 1066
+  },
+  {
+    "name": "overvoltage_threshold",
+    "type": "float",
+    "value": 141.1
+  },
+  {
+    "name": "overspeed_threshold",
+    "type": "string",
+    "value": "value_085"
+  },
+  {
+    "name": "undercurrent_threshold",
+    "type": "byte",
+    "value": 85
+  },
+  {
+    "name": "leakage_current",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "ground_fault_status",
+    "type": "int",
+    "value": 1131
+  },
+  {
+    "name": "phase_loss_status",
+    "type": "float",
+    "value": 149.6
+  },
+  {
+    "name": "short_circuit_status",
+    "type": "string",
+    "value": "value_090"
+  },
+  {
+    "name": "overload_status",
+    "type": "byte",
+    "value": 120
+  },
+  {
+    "name": "overtemperature_status",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "undervoltage_status",
+    "type": "int",
+    "value": 1196
+  },
+  {
+    "name": "overvoltage_status",
+    "type": "float",
+    "value": 158.1
+  },
+  {
+    "name": "overspeed_status",
+    "type": "string",
+    "value": "value_095"
+  },
+  {
+    "name": "emergency_stop_status",
+    "type": "byte",
+    "value": 155
+  },
+  {
+    "name": "door_interlock_status",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "safety_relay_status",
+    "type": "int",
+    "value": 1261
+  },
+  {
+    "name": "cooling_fan_status",
+    "type": "float",
+    "value": 166.6
+  },
+  {
+    "name": "pump_status",
+    "type": "string",
+    "value": "value_100"
+  },
+  {
+    "name": "valve_position",
+    "type": "byte",
+    "value": 190
+  },
+  {
+    "name": "valve_status",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "fan_speed",
+    "type": "int",
+    "value": 1326
+  },
+  {
+    "name": "pump_speed",
+    "type": "float",
+    "value": 175.1
+  },
+  {
+    "name": "filter_pressure",
+    "type": "string",
+    "value": "value_105"
+  },
+  {
+    "name": "tank_level",
+    "type": "byte",
+    "value": 225
+  },
+  {
+    "name": "water_temperature",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "oil_temperature",
+    "type": "int",
+    "value": 1391
+  },
+  {
+    "name": "coolant_temperature",
+    "type": "float",
+    "value": 183.6
+  },
+  {
+    "name": "bearing_temperature",
+    "type": "string",
+    "value": "value_110"
+  },
+  {
+    "name": "ambient_temperature",
+    "type": "byte",
+    "value": 4
+  },
+  {
+    "name": "dew_point",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "air_quality_index",
+    "type": "int",
+    "value": 1456
+  },
+  {
+    "name": "co2_level",
+    "type": "float",
+    "value": 192.1
+  },
+  {
+    "name": "voc_level",
+    "type": "string",
+    "value": "value_115"
+  },
+  {
+    "name": "light_level",
+    "type": "byte",
+    "value": 39
+  },
+  {
+    "name": "sound_level",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "occupancy_status",
+    "type": "int",
+    "value": 1521
+  },
+  {
+    "name": "door_status",
+    "type": "float",
+    "value": 200.6
+  },
+  {
+    "name": "window_status",
+    "type": "string",
+    "value": "value_120"
+  },
+  {
+    "name": "battery_voltage",
+    "type": "byte",
+    "value": 74
+  },
+  {
+    "name": "battery_current",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "battery_level",
+    "type": "int",
+    "value": 1586
+  },
+  {
+    "name": "charging_status",
+    "type": "float",
+    "value": 209.1
+  },
+  {
+    "name": "solar_power",
+    "type": "string",
+    "value": "value_125"
+  },
+  {
+    "name": "grid_voltage",
+    "type": "byte",
+    "value": 109
+  },
+  {
+    "name": "grid_frequency",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "inverter_status",
+    "type": "int",
+    "value": 1651
+  },
+  {
+    "name": "inverter_temperature",
+    "type": "float",
+    "value": 217.6
+  },
+  {
+    "name": "charge_power",
+    "type": "string",
+    "value": "value_130"
+  },
+  {
+    "name": "discharge_power",
+    "type": "byte",
+    "value": 144
+  },
+  {
+    "name": "state_of_charge",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "state_of_health",
+    "type": "int",
+    "value": 1716
+  },
+  {
+    "name": "cell_voltage_min",
+    "type": "float",
+    "value": 226.1
+  },
+  {
+    "name": "cell_voltage_max",
+    "type": "string",
+    "value": "value_135"
+  },
+  {
+    "name": "cell_temperature_min",
+    "type": "byte",
+    "value": 179
+  },
+  {
+    "name": "cell_temperature_max",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "insulation_resistance",
+    "type": "int",
+    "value": 1781
+  },
+  {
+    "name": "ground_resistance",
+    "type": "float",
+    "value": 234.6
+  },
+  {
+    "name": "load_percentage",
+    "type": "string",
+    "value": "value_140"
+  },
+  {
+    "name": "efficiency",
+    "type": "byte",
+    "value": 214
+  },
+  {
+    "name": "power_demand",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "power_limit",
+    "type": "int",
+    "value": 1846
+  },
+  {
+    "name": "energy_import",
+    "type": "float",
+    "value": 243.1
+  },
+  {
+    "name": "energy_export",
+    "type": "string",
+    "value": "value_145"
+  },
+  {
+    "name": "reactive_energy",
+    "type": "byte",
+    "value": 249
+  },
+  {
+    "name": "apparent_energy",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "demand_peak",
+    "type": "int",
+    "value": 1911
+  },
+  {
+    "name": "tariff_id",
+    "type": "float",
+    "value": 251.6
+  },
+  {
+    "name": "meter_status",
+    "type": "string",
+    "value": "value_150"
+  },
+  {
+    "name": "meter_serial",
+    "type": "byte",
+    "value": 28
+  },
+  {
+    "name": "sensor_01_value",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "sensor_02_value",
+    "type": "int",
+    "value": 1976
+  },
+  {
+    "name": "sensor_03_value",
+    "type": "float",
+    "value": 260.1
+  },
+  {
+    "name": "sensor_04_value",
+    "type": "string",
+    "value": "value_155"
+  },
+  {
+    "name": "sensor_05_value",
+    "type": "byte",
+    "value": 63
+  },
+  {
+    "name": "input_01_status",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "input_02_status",
+    "type": "int",
+    "value": 2041
+  },
+  {
+    "name": "input_03_status",
+    "type": "float",
+    "value": 268.6
+  },
+  {
+    "name": "input_04_status",
+    "type": "string",
+    "value": "value_160"
+  },
+  {
+    "name": "input_05_status",
+    "type": "byte",
+    "value": 98
+  },
+  {
+    "name": "output_01_status",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "output_02_status",
+    "type": "int",
+    "value": 2106
+  },
+  {
+    "name": "output_03_status",
+    "type": "float",
+    "value": 277.1
+  },
+  {
+    "name": "output_04_status",
+    "type": "string",
+    "value": "value_165"
+  },
+  {
+    "name": "output_05_status",
+    "type": "byte",
+    "value": 133
+  },
+  {
+    "name": "analog_input_01",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "analog_input_02",
+    "type": "int",
+    "value": 2171
+  },
+  {
+    "name": "analog_input_03",
+    "type": "float",
+    "value": 285.6
+  },
+  {
+    "name": "analog_input_04",
+    "type": "string",
+    "value": "value_170"
+  },
+  {
+    "name": "analog_input_05",
+    "type": "byte",
+    "value": 168
+  },
+  {
+    "name": "analog_output_01",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "analog_output_02",
+    "type": "int",
+    "value": 2236
+  },
+  {
+    "name": "analog_output_03",
+    "type": "float",
+    "value": 294.1
+  },
+  {
+    "name": "analog_output_04",
+    "type": "string",
+    "value": "value_175"
+  },
+  {
+    "name": "analog_output_05",
+    "type": "byte",
+    "value": 203
+  },
+  {
+    "name": "setpoint_speed",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "setpoint_torque",
+    "type": "int",
+    "value": 2301
+  },
+  {
+    "name": "setpoint_current",
+    "type": "float",
+    "value": 302.6
+  },
+  {
+    "name": "setpoint_voltage",
+    "type": "string",
+    "value": "value_180"
+  },
+  {
+    "name": "setpoint_pressure",
+    "type": "byte",
+    "value": 238
+  },
+  {
+    "name": "setpoint_temperature",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "setpoint_flow",
+    "type": "int",
+    "value": 2366
+  },
+  {
+    "name": "setpoint_position",
+    "type": "float",
+    "value": 311.1
+  },
+  {
+    "name": "setpoint_frequency",
+    "type": "string",
+    "value": "value_185"
+  },
+  {
+    "name": "setpoint_power",
+    "type": "byte",
+    "value": 17
+  },
+  {
+    "name": "control_mode",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "operation_mode",
+    "type": "int",
+    "value": 2431
+  },
+  {
+    "name": "direction_command",
+    "type": "float",
+    "value": 319.6
+  },
+  {
+    "name": "start_command",
+    "type": "string",
+    "value": "value_190"
+  },
+  {
+    "name": "stop_command",
+    "type": "byte",
+    "value": 52
+  },
+  {
+    "name": "reset_command",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "enable_command",
+    "type": "int",
+    "value": 2496
+  },
+  {
+    "name": "jog_command",
+    "type": "float",
+    "value": 328.1
+  },
+  {
+    "name": "brake_command",
+    "type": "string",
+    "value": "value_195"
+  },
+  {
+    "name": "acknowledge_command",
+    "type": "byte",
+    "value": 87
+  },
+  {
+    "name": "motor_temperature",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "motor_current",
+    "type": "int",
+    "value": 2561
+  },
+  {
+    "name": "motor_voltage",
+    "type": "float",
+    "value": 336.6
+  },
+  {
+    "name": "motor_speed",
+    "type": "string",
+    "value": "value_200"
+  },
+  {
+    "name": "motor_torque",
+    "type": "byte",
+    "value": 122
+  },
+  {
+    "name": "motor_power",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "motor_status",
+    "type": "int",
+    "value": 2626
+  },
+  {
+    "name": "motor_fault",
+    "type": "float",
+    "value": 345.1
+  },
+  {
+    "name": "motor_warning",
+    "type": "string",
+    "value": "value_205"
+  },
+  {
+    "name": "motor_runtime",
+    "type": "byte",
+    "value": 157
+  },
+  {
+    "name": "drive_temperature",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "drive_current",
+    "type": "int",
+    "value": 2691
+  },
+  {
+    "name": "drive_voltage",
+    "type": "float",
+    "value": 353.6
+  },
+  {
+    "name": "drive_frequency",
+    "type": "string",
+    "value": "value_210"
+  },
+  {
+    "name": "drive_speed",
+    "type": "byte",
+    "value": 192
+  },
+  {
+    "name": "drive_power",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "drive_status",
+    "type": "int",
+    "value": 2756
+  },
+  {
+    "name": "drive_fault",
+    "type": "float",
+    "value": 362.1
+  },
+  {
+    "name": "drive_warning",
+    "type": "string",
+    "value": "value_215"
+  },
+  {
+    "name": "drive_load",
+    "type": "byte",
+    "value": 227
+  },
+  {
+    "name": "sensor_value",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "sensor_status",
+    "type": "int",
+    "value": 2821
+  },
+  {
+    "name": "sensor_raw_value",
+    "type": "float",
+    "value": 370.6
+  },
+  {
+    "name": "sensor_scaled_value",
+    "type": "string",
+    "value": "value_220"
+  },
+  {
+    "name": "sensor_quality",
+    "type": "byte",
+    "value": 6
+  },
+  {
+    "name": "sensor_offset",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "sensor_gain",
+    "type": "int",
+    "value": 2886
+  },
+  {
+    "name": "sensor_threshold",
+    "type": "float",
+    "value": 379.1
+  },
+  {
+    "name": "sensor_min_value",
+    "type": "string",
+    "value": "value_225"
+  },
+  {
+    "name": "sensor_max_value",
+    "type": "byte",
+    "value": 41
+  },
+  {
+    "name": "channel_input_status",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "channel_output_status",
+    "type": "int",
+    "value": 2951
+  },
+  {
+    "name": "channel_analog_value",
+    "type": "float",
+    "value": 387.6
+  },
+  {
+    "name": "channel_digital_value",
+    "type": "string",
+    "value": "value_230"
+  },
+  {
+    "name": "channel_alarm",
+    "type": "byte",
+    "value": 76
+  },
+  {
+    "name": "channel_warning",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "channel_threshold",
+    "type": "int",
+    "value": 3016
+  },
+  {
+    "name": "channel_scale",
+    "type": "float",
+    "value": 396.1
+  },
+  {
+    "name": "channel_offset",
+    "type": "string",
+    "value": "value_235"
+  },
+  {
+    "name": "channel_quality",
+    "type": "byte",
+    "value": 111
+  },
+  {
+    "name": "axis_position",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "axis_velocity",
+    "type": "int",
+    "value": 3081
+  },
+  {
+    "name": "axis_acceleration",
+    "type": "float",
+    "value": 404.6
+  },
+  {
+    "name": "axis_torque",
+    "type": "string",
+    "value": "value_240"
+  },
+  {
+    "name": "axis_following_error",
+    "type": "byte",
+    "value": 146
+  },
+  {
+    "name": "axis_homed_status",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "axis_limit_min",
+    "type": "int",
+    "value": 3146
+  },
+  {
+    "name": "axis_limit_max",
+    "type": "float",
+    "value": 413.1
+  },
+  {
+    "name": "axis_target_position",
+    "type": "string",
+    "value": "value_245"
+  },
+  {
+    "name": "axis_actual_position",
+    "type": "byte",
+    "value": 181
+  },
+  {
+    "name": "pump_speed",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "pump_pressure",
+    "type": "int",
+    "value": 3211
+  },
+  {
+    "name": "pump_flow",
+    "type": "float",
+    "value": 421.6
+  },
+  {
+    "name": "pump_temperature",
+    "type": "string",
+    "value": "value_250"
+  },
+  {
+    "name": "pump_current",
+    "type": "byte",
+    "value": 216
+  },
+  {
+    "name": "pump_power",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "pump_status",
+    "type": "int",
+    "value": 3276
+  },
+  {
+    "name": "pump_fault",
+    "type": "float",
+    "value": 430.1
+  },
+  {
+    "name": "pump_runtime",
+    "type": "string",
+    "value": "value_255"
+  },
+  {
+    "name": "pump_start_count",
+    "type": "byte",
+    "value": 251
+  },
+  {
+    "name": "valve_position",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "valve_command",
+    "type": "int",
+    "value": 3341
+  },
+  {
+    "name": "valve_feedback",
+    "type": "float",
+    "value": 438.6
+  },
+  {
+    "name": "valve_status",
+    "type": "string",
+    "value": "value_260"
+  },
+  {
+    "name": "valve_fault",
+    "type": "byte",
+    "value": 30
+  },
+  {
+    "name": "valve_open_limit",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "valve_close_limit",
+    "type": "int",
+    "value": 3406
+  },
+  {
+    "name": "valve_travel_time",
+    "type": "float",
+    "value": 447.1
+  },
+  {
+    "name": "valve_pressure",
+    "type": "string",
+    "value": "value_265"
+  },
+  {
+    "name": "valve_temperature",
+    "type": "byte",
+    "value": 65
+  },
+  {
+    "name": "battery_voltage",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "battery_current",
+    "type": "int",
+    "value": 3471
+  },
+  {
+    "name": "battery_temperature",
+    "type": "float",
+    "value": 455.6
+  },
+  {
+    "name": "battery_status",
+    "type": "string",
+    "value": "value_270"
+  },
+  {
+    "name": "battery_fault",
+    "type": "byte",
+    "value": 100
+  },
+  {
+    "name": "battery_charge_rate",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "battery_discharge_rate",
+    "type": "int",
+    "value": 3536
+  },
+  {
+    "name": "battery_cycle_count",
+    "type": "float",
+    "value": 464.1
+  },
+  {
+    "name": "battery_capacity",
+    "type": "string",
+    "value": "value_275"
+  },
+  {
+    "name": "battery_health",
+    "type": "byte",
+    "value": 135
+  },
+  {
+    "name": "network_status",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "network_latency",
+    "type": "int",
+    "value": 3601
+  },
+  {
+    "name": "network_packet_loss",
+    "type": "float",
+    "value": 472.6
+  },
+  {
+    "name": "network_rx_bytes",
+    "type": "string",
+    "value": "value_280"
+  },
+  {
+    "name": "network_tx_bytes",
+    "type": "byte",
+    "value": 170
+  },
+  {
+    "name": "network_error_count",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "network_retry_count",
+    "type": "int",
+    "value": 3666
+  },
+  {
+    "name": "network_link_speed",
+    "type": "float",
+    "value": 481.1
+  },
+  {
+    "name": "network_address",
+    "type": "string",
+    "value": "value_285"
+  },
+  {
+    "name": "network_uptime",
+    "type": "byte",
+    "value": 205
+  },
+  {
+    "name": "system_status",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "system_mode",
+    "type": "int",
+    "value": 3731
+  },
+  {
+    "name": "system_error_code",
+    "type": "float",
+    "value": 489.6
+  },
+  {
+    "name": "system_warning_code",
+    "type": "string",
+    "value": "value_290"
+  },
+  {
+    "name": "system_uptime",
+    "type": "byte",
+    "value": 240
+  },
+  {
+    "name": "system_load",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "system_memory_usage",
+    "type": "int",
+    "value": 3796
+  },
+  {
+    "name": "system_cpu_temperature",
+    "type": "float",
+    "value": 498.1
+  },
+  {
+    "name": "system_restart_count",
+    "type": "string",
+    "value": "value_295"
+  },
+  {
+    "name": "system_config_version",
+    "type": "byte",
+    "value": 19
+  },
+  {
+    "name": "zone_temperature",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "zone_humidity",
+    "type": "int",
+    "value": 3861
+  },
+  {
+    "name": "zone_pressure",
+    "type": "float",
+    "value": 506.6
+  },
+  {
+    "name": "zone_co2",
+    "type": "string",
+    "value": "value_300"
+  },
+  {
+    "name": "zone_occupancy",
+    "type": "byte",
+    "value": 54
+  },
+  {
+    "name": "zone_setpoint",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "zone_heating_status",
+    "type": "int",
+    "value": 3926
+  },
+  {
+    "name": "zone_cooling_status",
+    "type": "float",
+    "value": 515.1
+  },
+  {
+    "name": "zone_fan_status",
+    "type": "string",
+    "value": "value_305"
+  },
+  {
+    "name": "zone_alarm",
+    "type": "byte",
+    "value": 89
+  },
+  {
+    "name": "power_active",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "power_reactive",
+    "type": "int",
+    "value": 3991
+  },
+  {
+    "name": "power_apparent",
+    "type": "float",
+    "value": 523.6
+  },
+  {
+    "name": "power_factor",
+    "type": "string",
+    "value": "value_310"
+  },
+  {
+    "name": "power_frequency",
+    "type": "byte",
+    "value": 124
+  },
+  {
+    "name": "power_voltage",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "power_current",
+    "type": "int",
+    "value": 4056
+  },
+  {
+    "name": "power_import_energy",
+    "type": "float",
+    "value": 532.1
+  },
+  {
+    "name": "power_export_energy",
+    "type": "string",
+    "value": "value_315"
+  },
+  {
+    "name": "power_demand",
+    "type": "byte",
+    "value": 159
+  },
+  {
+    "name": "safety_emergency_stop",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "safety_guard_door",
+    "type": "int",
+    "value": 4121
+  },
+  {
+    "name": "safety_interlock",
+    "type": "float",
+    "value": 540.6
+  },
+  {
+    "name": "safety_relay",
+    "type": "string",
+    "value": "value_320"
+  },
+  {
+    "name": "safety_light_curtain",
+    "type": "byte",
+    "value": 194
+  },
+  {
+    "name": "safety_safe_speed",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "safety_safe_torque",
+    "type": "int",
+    "value": 4186
+  },
+  {
+    "name": "safety_alarm",
+    "type": "float",
+    "value": 549.1
+  },
+  {
+    "name": "safety_reset_required",
+    "type": "string",
+    "value": "value_325"
+  },
+  {
+    "name": "safety_status",
+    "type": "byte",
+    "value": 229
+  },
+  {
+    "name": "counter_pulse_count",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "counter_event_count",
+    "type": "int",
+    "value": 4251
+  },
+  {
+    "name": "counter_start_count",
+    "type": "float",
+    "value": 557.6
+  },
+  {
+    "name": "counter_stop_count",
+    "type": "string",
+    "value": "value_330"
+  },
+  {
+    "name": "counter_fault_count",
+    "type": "byte",
+    "value": 8
+  },
+  {
+    "name": "counter_warning_count",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "counter_reset_count",
+    "type": "int",
+    "value": 4316
+  },
+  {
+    "name": "counter_cycle_count",
+    "type": "float",
+    "value": 566.1
+  },
+  {
+    "name": "counter_hour_count",
+    "type": "string",
+    "value": "value_335"
+  },
+  {
+    "name": "counter_day_count",
+    "type": "byte",
+    "value": 43
+  },
+  {
+    "name": "config_address",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "config_baud_rate",
+    "type": "int",
+    "value": 4381
+  },
+  {
+    "name": "config_timeout",
+    "type": "float",
+    "value": 574.6
+  },
+  {
+    "name": "config_retry_limit",
+    "type": "string",
+    "value": "value_340"
+  },
+  {
+    "name": "config_sample_interval",
+    "type": "byte",
+    "value": 78
+  },
+  {
+    "name": "config_filter_constant",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "config_scale",
+    "type": "int",
+    "value": 4446
+  },
+  {
+    "name": "config_offset",
+    "type": "float",
+    "value": 583.1
+  },
+  {
+    "name": "config_version",
+    "type": "string",
+    "value": "value_345"
+  },
+  {
+    "name": "config_checksum",
+    "type": "byte",
+    "value": 113
+  },
+  {
+    "name": "process_temperature",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "process_pressure",
+    "type": "int",
+    "value": 4511
+  },
+  {
+    "name": "process_flow_rate",
+    "type": "float",
+    "value": 591.6
+  },
+  {
+    "name": "process_level",
+    "type": "string",
+    "value": "value_350"
+  },
+  {
+    "name": "process_density",
+    "type": "byte",
+    "value": 148
+  },
+  {
+    "name": "process_viscosity",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "process_ph",
+    "type": "int",
+    "value": 4576
+  },
+  {
+    "name": "process_conductivity",
+    "type": "float",
+    "value": 600.1
+  },
+  {
+    "name": "process_setpoint",
+    "type": "string",
+    "value": "value_355"
+  },
+  {
+    "name": "process_deviation",
+    "type": "byte",
+    "value": 183
+  },
+  {
+    "name": "compressor_pressure",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "compressor_temperature",
+    "type": "int",
+    "value": 4641
+  },
+  {
+    "name": "compressor_speed",
+    "type": "float",
+    "value": 608.6
+  },
+  {
+    "name": "compressor_current",
+    "type": "string",
+    "value": "value_360"
+  },
+  {
+    "name": "compressor_power",
+    "type": "byte",
+    "value": 218
+  },
+  {
+    "name": "compressor_status",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "compressor_fault",
+    "type": "int",
+    "value": 4706
+  },
+  {
+    "name": "compressor_runtime",
+    "type": "float",
+    "value": 617.1
+  },
+  {
+    "name": "compressor_load",
+    "type": "string",
+    "value": "value_365"
+  },
+  {
+    "name": "compressor_oil_level",
+    "type": "byte",
+    "value": 253
+  },
+  {
+    "name": "fan_speed",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "fan_temperature",
+    "type": "int",
+    "value": 4771
+  },
+  {
+    "name": "fan_current",
+    "type": "float",
+    "value": 625.6
+  },
+  {
+    "name": "fan_power",
+    "type": "string",
+    "value": "value_370"
+  },
+  {
+    "name": "fan_status",
+    "type": "byte",
+    "value": 32
+  },
+  {
+    "name": "fan_fault",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "fan_vibration",
+    "type": "int",
+    "value": 4836
+  },
+  {
+    "name": "fan_airflow",
+    "type": "float",
+    "value": 634.1
+  },
+  {
+    "name": "fan_setpoint",
+    "type": "string",
+    "value": "value_375"
+  },
+  {
+    "name": "fan_runtime",
+    "type": "byte",
+    "value": 67
+  },
+  {
+    "name": "heater_temperature",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "heater_power",
+    "type": "int",
+    "value": 4901
+  },
+  {
+    "name": "heater_current",
+    "type": "float",
+    "value": 642.6
+  },
+  {
+    "name": "heater_status",
+    "type": "string",
+    "value": "value_380"
+  },
+  {
+    "name": "heater_fault",
+    "type": "byte",
+    "value": 102
+  },
+  {
+    "name": "heater_setpoint",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "heater_duty_cycle",
+    "type": "int",
+    "value": 4966
+  },
+  {
+    "name": "heater_overtemp_status",
+    "type": "float",
+    "value": 651.1
+  },
+  {
+    "name": "heater_runtime",
+    "type": "string",
+    "value": "value_385"
+  },
+  {
+    "name": "heater_energy",
+    "type": "byte",
+    "value": 137
+  },
+  {
+    "name": "line_voltage",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "line_current",
+    "type": "int",
+    "value": 5031
+  },
+  {
+    "name": "line_frequency",
+    "type": "float",
+    "value": 659.6
+  },
+  {
+    "name": "line_power",
+    "type": "string",
+    "value": "value_390"
+  },
+  {
+    "name": "line_phase_sequence",
+    "type": "byte",
+    "value": 172
+  },
+  {
+    "name": "line_phase_loss",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "line_breaker_status",
+    "type": "int",
+    "value": 5096
+  },
+  {
+    "name": "line_load",
+    "type": "float",
+    "value": 668.1
+  },
+  {
+    "name": "line_status",
+    "type": "string",
+    "value": "value_395"
+  },
+  {
+    "name": "line_fault",
+    "type": "byte",
+    "value": 207
+  },
+  {
+    "name": "parameter_001",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "parameter_002",
+    "type": "int",
+    "value": 5161
+  },
+  {
+    "name": "parameter_003",
+    "type": "float",
+    "value": 676.6
+  },
+  {
+    "name": "parameter_004",
+    "type": "string",
+    "value": "value_400"
+  },
+  {
+    "name": "parameter_005",
+    "type": "byte",
+    "value": 242
+  },
+  {
+    "name": "parameter_006",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "parameter_007",
+    "type": "int",
+    "value": 5226
+  },
+  {
+    "name": "parameter_008",
+    "type": "float",
+    "value": 685.1
+  },
+  {
+    "name": "parameter_009",
+    "type": "string",
+    "value": "value_405"
+  },
+  {
+    "name": "parameter_010",
+    "type": "byte",
+    "value": 21
+  },
+  {
+    "name": "parameter_011",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "parameter_012",
+    "type": "int",
+    "value": 5291
+  },
+  {
+    "name": "parameter_013",
+    "type": "float",
+    "value": 693.6
+  },
+  {
+    "name": "parameter_014",
+    "type": "string",
+    "value": "value_410"
+  },
+  {
+    "name": "parameter_015",
+    "type": "byte",
+    "value": 56
+  },
+  {
+    "name": "parameter_016",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "parameter_017",
+    "type": "int",
+    "value": 5356
+  },
+  {
+    "name": "parameter_018",
+    "type": "float",
+    "value": 702.1
+  },
+  {
+    "name": "parameter_019",
+    "type": "string",
+    "value": "value_415"
+  },
+  {
+    "name": "parameter_020",
+    "type": "byte",
+    "value": 91
+  },
+  {
+    "name": "parameter_021",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "parameter_022",
+    "type": "int",
+    "value": 5421
+  },
+  {
+    "name": "parameter_023",
+    "type": "float",
+    "value": 710.6
+  },
+  {
+    "name": "parameter_024",
+    "type": "string",
+    "value": "value_420"
+  },
+  {
+    "name": "parameter_025",
+    "type": "byte",
+    "value": 126
+  },
+  {
+    "name": "parameter_026",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "parameter_027",
+    "type": "int",
+    "value": 5486
+  },
+  {
+    "name": "parameter_028",
+    "type": "float",
+    "value": 719.1
+  },
+  {
+    "name": "parameter_029",
+    "type": "string",
+    "value": "value_425"
+  },
+  {
+    "name": "parameter_030",
+    "type": "byte",
+    "value": 161
+  },
+  {
+    "name": "parameter_031",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "parameter_032",
+    "type": "int",
+    "value": 5551
+  },
+  {
+    "name": "parameter_033",
+    "type": "float",
+    "value": 727.6
+  },
+  {
+    "name": "parameter_034",
+    "type": "string",
+    "value": "value_430"
+  },
+  {
+    "name": "parameter_035",
+    "type": "byte",
+    "value": 196
+  },
+  {
+    "name": "parameter_036",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "parameter_037",
+    "type": "int",
+    "value": 5616
+  },
+  {
+    "name": "parameter_038",
+    "type": "float",
+    "value": 736.1
+  },
+  {
+    "name": "parameter_039",
+    "type": "string",
+    "value": "value_435"
+  },
+  {
+    "name": "parameter_040",
+    "type": "byte",
+    "value": 231
+  },
+  {
+    "name": "parameter_041",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "parameter_042",
+    "type": "int",
+    "value": 5681
+  },
+  {
+    "name": "parameter_043",
+    "type": "float",
+    "value": 744.6
+  },
+  {
+    "name": "parameter_044",
+    "type": "string",
+    "value": "value_440"
+  },
+  {
+    "name": "parameter_045",
+    "type": "byte",
+    "value": 10
+  },
+  {
+    "name": "parameter_046",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "parameter_047",
+    "type": "int",
+    "value": 5746
+  },
+  {
+    "name": "parameter_048",
+    "type": "float",
+    "value": 753.1
+  },
+  {
+    "name": "parameter_049",
+    "type": "string",
+    "value": "value_445"
+  },
+  {
+    "name": "parameter_050",
+    "type": "byte",
+    "value": 45
+  },
+  {
+    "name": "parameter_051",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "parameter_052",
+    "type": "int",
+    "value": 5811
+  },
+  {
+    "name": "parameter_053",
+    "type": "float",
+    "value": 761.6
+  },
+  {
+    "name": "parameter_054",
+    "type": "string",
+    "value": "value_450"
+  },
+  {
+    "name": "parameter_055",
+    "type": "byte",
+    "value": 80
+  },
+  {
+    "name": "parameter_056",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "parameter_057",
+    "type": "int",
+    "value": 5876
+  },
+  {
+    "name": "parameter_058",
+    "type": "float",
+    "value": 770.1
+  },
+  {
+    "name": "parameter_059",
+    "type": "string",
+    "value": "value_455"
+  },
+  {
+    "name": "parameter_060",
+    "type": "byte",
+    "value": 115
+  },
+  {
+    "name": "parameter_061",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "parameter_062",
+    "type": "int",
+    "value": 5941
+  },
+  {
+    "name": "parameter_063",
+    "type": "float",
+    "value": 778.6
+  },
+  {
+    "name": "parameter_064",
+    "type": "string",
+    "value": "value_460"
+  },
+  {
+    "name": "parameter_065",
+    "type": "byte",
+    "value": 150
+  },
+  {
+    "name": "parameter_066",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "parameter_067",
+    "type": "int",
+    "value": 6006
+  },
+  {
+    "name": "parameter_068",
+    "type": "float",
+    "value": 787.1
+  },
+  {
+    "name": "parameter_069",
+    "type": "string",
+    "value": "value_465"
+  },
+  {
+    "name": "parameter_070",
+    "type": "byte",
+    "value": 185
+  },
+  {
+    "name": "parameter_071",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "parameter_072",
+    "type": "int",
+    "value": 6071
+  },
+  {
+    "name": "parameter_073",
+    "type": "float",
+    "value": 795.6
+  },
+  {
+    "name": "parameter_074",
+    "type": "string",
+    "value": "value_470"
+  },
+  {
+    "name": "parameter_075",
+    "type": "byte",
+    "value": 220
+  },
+  {
+    "name": "parameter_076",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "parameter_077",
+    "type": "int",
+    "value": 6136
+  },
+  {
+    "name": "parameter_078",
+    "type": "float",
+    "value": 804.1
+  },
+  {
+    "name": "parameter_079",
+    "type": "string",
+    "value": "value_475"
+  },
+  {
+    "name": "parameter_080",
+    "type": "byte",
+    "value": 255
+  },
+  {
+    "name": "parameter_081",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "parameter_082",
+    "type": "int",
+    "value": 6201
+  },
+  {
+    "name": "parameter_083",
+    "type": "float",
+    "value": 812.6
+  },
+  {
+    "name": "parameter_084",
+    "type": "string",
+    "value": "value_480"
+  },
+  {
+    "name": "parameter_085",
+    "type": "byte",
+    "value": 34
+  },
+  {
+    "name": "parameter_086",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "parameter_087",
+    "type": "int",
+    "value": 6266
+  },
+  {
+    "name": "parameter_088",
+    "type": "float",
+    "value": 821.1
+  },
+  {
+    "name": "parameter_089",
+    "type": "string",
+    "value": "value_485"
+  },
+  {
+    "name": "parameter_090",
+    "type": "byte",
+    "value": 69
+  },
+  {
+    "name": "parameter_091",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "parameter_092",
+    "type": "int",
+    "value": 6331
+  },
+  {
+    "name": "parameter_093",
+    "type": "float",
+    "value": 829.6
+  },
+  {
+    "name": "parameter_094",
+    "type": "string",
+    "value": "value_490"
+  },
+  {
+    "name": "parameter_095",
+    "type": "byte",
+    "value": 104
+  },
+  {
+    "name": "parameter_096",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "parameter_097",
+    "type": "int",
+    "value": 6396
+  },
+  {
+    "name": "parameter_098",
+    "type": "float",
+    "value": 838.1
+  },
+  {
+    "name": "parameter_099",
+    "type": "string",
+    "value": "value_495"
+  },
+  {
+    "name": "parameter_100",
+    "type": "byte",
+    "value": 139
+  },
+  {
+    "name": "parameter_101",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "parameter_102",
+    "type": "int",
+    "value": 6461
+  },
+  {
+    "name": "parameter_103",
+    "type": "float",
+    "value": 846.6
+  },
+  {
+    "name": "parameter_104",
+    "type": "string",
+    "value": "value_500"
+  },
+   {
+    "name": "compressor_oil_level",
+    "type": "byte",
+    "value": 253
+  },
+  {
+    "name": "enable_command",
+    "type": "int",
+    "value": 2496
+  },
+  {
+    "name": "jog_command",
+    "type": "float",
+    "value": 328.1
+  },
+  {
+    "name": "brake_command",
+    "type": "string",
+    "value": "value_195"
+  },
+  {
+    "name": "acknowledge_command",
+    "type": "byte",
+    "value": 87
+  },
+  {
+    "name": "motor_temperature",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "motor_current",
+    "type": "int",
+    "value": 2561
+  },
+  {
+    "name": "motor_voltage",
+    "type": "float",
+    "value": 336.6
+  },
+  {
+    "name": "motor_speed",
+    "type": "string",
+    "value": "value_200"
+  },
+  {
+    "name": "motor_torque",
+    "type": "byte",
+    "value": 122
+  },
+  {
+    "name": "motor_power",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "motor_status",
+    "type": "int",
+    "value": 2626
+  },
+  {
+    "name": "motor_fault",
+    "type": "float",
+    "value": 345.1
+  },
+  {
+    "name": "motor_warning",
+    "type": "string",
+    "value": "value_205"
+  },
+  {
+    "name": "motor_runtime",
+    "type": "byte",
+    "value": 157
+  },
+  {
+    "name": "drive_temperature",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "drive_current",
+    "type": "int",
+    "value": 2691
+  },
+  {
+    "name": "drive_voltage",
+    "type": "float",
+    "value": 353.6
+  },
+  {
+    "name": "drive_frequency",
+    "type": "string",
+    "value": "value_210"
+  },
+  {
+    "name": "drive_speed",
+    "type": "byte",
+    "value": 192
+  },
+  {
+    "name": "drive_power",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "drive_status",
+    "type": "int",
+    "value": 2756
+  },
+  {
+    "name": "drive_fault",
+    "type": "float",
+    "value": 362.1
+  },
+  {
+    "name": "drive_warning",
+    "type": "string",
+    "value": "value_215"
+  },
+  {
+    "name": "drive_load",
+    "type": "byte",
+    "value": 227
+  },
+  {
+    "name": "sensor_value",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "sensor_status",
+    "type": "int",
+    "value": 2821
+  },
+  {
+    "name": "sensor_raw_value",
+    "type": "float",
+    "value": 370.6
+  },
+  {
+    "name": "sensor_scaled_value",
+    "type": "string",
+    "value": "value_220"
+  },
+  {
+    "name": "sensor_quality",
+    "type": "byte",
+    "value": 6
+  },
+  {
+    "name": "sensor_offset",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "sensor_gain",
+    "type": "int",
+    "value": 2886
+  },
+  {
+    "name": "sensor_threshold",
+    "type": "float",
+    "value": 379.1
+  },
+  {
+    "name": "sensor_min_value",
+    "type": "string",
+    "value": "value_225"
+  },
+  {
+    "name": "sensor_max_value",
+    "type": "byte",
+    "value": 41
+  },
+  {
+    "name": "channel_input_status",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "channel_output_status",
+    "type": "int",
+    "value": 2951
+  },
+  {
+    "name": "channel_analog_value",
+    "type": "float",
+    "value": 387.6
+  },
+  {
+    "name": "channel_digital_value",
+    "type": "string",
+    "value": "value_230"
+  },
+  {
+    "name": "channel_alarm",
+    "type": "byte",
+    "value": 76
+  },
+  {
+    "name": "channel_warning",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "channel_threshold",
+    "type": "int",
+    "value": 3016
+  },
+  {
+    "name": "channel_scale",
+    "type": "float",
+    "value": 396.1
+  },
+  {
+    "name": "channel_offset",
+    "type": "string",
+    "value": "value_235"
+  },
+  {
+    "name": "channel_quality",
+    "type": "byte",
+    "value": 111
+  },
+  {
+    "name": "axis_position",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "axis_velocity",
+    "type": "int",
+    "value": 3081
+  },
+  {
+    "name": "axis_acceleration",
+    "type": "float",
+    "value": 404.6
+  },
+  {
+    "name": "axis_torque",
+    "type": "string",
+    "value": "value_240"
+  },
+  {
+    "name": "axis_following_error",
+    "type": "byte",
+    "value": 146
+  },
+  {
+    "name": "axis_homed_status",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "axis_limit_min",
+    "type": "int",
+    "value": 3146
+  },
+  {
+    "name": "axis_limit_max",
+    "type": "float",
+    "value": 413.1
+  },
+  {
+    "name": "axis_target_position",
+    "type": "string",
+    "value": "value_245"
+  },
+  {
+    "name": "axis_actual_position",
+    "type": "byte",
+    "value": 181
+  },
+  {
+    "name": "pump_speed",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "pump_pressure",
+    "type": "int",
+    "value": 3211
+  },
+  {
+    "name": "pump_flow",
+    "type": "float",
+    "value": 421.6
+  },
+  {
+    "name": "pump_temperature",
+    "type": "string",
+    "value": "value_250"
+  },
+  {
+    "name": "pump_current",
+    "type": "byte",
+    "value": 216
+  },
+  {
+    "name": "pump_power",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "pump_status",
+    "type": "int",
+    "value": 3276
+  },
+  {
+    "name": "pump_fault",
+    "type": "float",
+    "value": 430.1
+  },
+  {
+    "name": "pump_runtime",
+    "type": "string",
+    "value": "value_255"
+  },
+  {
+    "name": "pump_start_count",
+    "type": "byte",
+    "value": 251
+  },
+  {
+    "name": "valve_position",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "valve_command",
+    "type": "int",
+    "value": 3341
+  },
+  {
+    "name": "valve_feedback",
+    "type": "float",
+    "value": 438.6
+  },
+  {
+    "name": "valve_status",
+    "type": "string",
+    "value": "value_260"
+  },
+  {
+    "name": "valve_fault",
+    "type": "byte",
+    "value": 30
+  },
+  {
+    "name": "valve_open_limit",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "valve_close_limit",
+    "type": "int",
+    "value": 3406
+  },
+  {
+    "name": "valve_travel_time",
+    "type": "float",
+    "value": 447.1
+  },
+  {
+    "name": "valve_pressure",
+    "type": "string",
+    "value": "value_265"
+  },
+  {
+    "name": "valve_temperature",
+    "type": "byte",
+    "value": 65
+  },
+  {
+    "name": "battery_voltage",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "battery_current",
+    "type": "int",
+    "value": 3471
+  },
+  {
+    "name": "battery_temperature",
+    "type": "float",
+    "value": 455.6
+  },
+  {
+    "name": "battery_status",
+    "type": "string",
+    "value": "value_270"
+  },
+  {
+    "name": "battery_fault",
+    "type": "byte",
+    "value": 100
+  },
+  {
+    "name": "battery_charge_rate",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "battery_discharge_rate",
+    "type": "int",
+    "value": 3536
+  },
+  {
+    "name": "battery_cycle_count",
+    "type": "float",
+    "value": 464.1
+  },
+  {
+    "name": "battery_capacity",
+    "type": "string",
+    "value": "value_275"
+  },
+  {
+    "name": "battery_health",
+    "type": "byte",
+    "value": 135
+  },
+  {
+    "name": "network_status",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "network_latency",
+    "type": "int",
+    "value": 3601
+  },
+  {
+    "name": "network_packet_loss",
+    "type": "float",
+    "value": 472.6
+  },
+  {
+    "name": "network_rx_bytes",
+    "type": "string",
+    "value": "value_280"
+  },
+  {
+    "name": "network_tx_bytes",
+    "type": "byte",
+    "value": 170
+  },
+  {
+    "name": "network_error_count",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "network_retry_count",
+    "type": "int",
+    "value": 3666
+  },
+  {
+    "name": "network_link_speed",
+    "type": "float",
+    "value": 481.1
+  },
+  {
+    "name": "network_address",
+    "type": "string",
+    "value": "value_285"
+  },
+  {
+    "name": "network_uptime",
+    "type": "byte",
+    "value": 205
+  },
+  {
+    "name": "system_status",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "system_mode",
+    "type": "int",
+    "value": 3731
+  },
+  {
+    "name": "system_error_code",
+    "type": "float",
+    "value": 489.6
+  },
+  {
+    "name": "system_warning_code",
+    "type": "string",
+    "value": "value_290"
+  },
+  {
+    "name": "system_uptime",
+    "type": "byte",
+    "value": 240
+  },
+  {
+    "name": "system_load",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "system_memory_usage",
+    "type": "int",
+    "value": 3796
+  },
+  {
+    "name": "system_cpu_temperature",
+    "type": "float",
+    "value": 498.1
+  },
+  {
+    "name": "system_restart_count",
+    "type": "string",
+    "value": "value_295"
+  },
+  {
+    "name": "system_config_version",
+    "type": "byte",
+    "value": 19
+  },
+  {
+    "name": "zone_temperature",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "zone_humidity",
+    "type": "int",
+    "value": 3861
+  },
+  {
+    "name": "zone_pressure",
+    "type": "float",
+    "value": 506.6
+  },
+  {
+    "name": "zone_co2",
+    "type": "string",
+    "value": "value_300"
+  },
+  {
+    "name": "zone_occupancy",
+    "type": "byte",
+    "value": 54
+  },
+  {
+    "name": "zone_setpoint",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "zone_heating_status",
+    "type": "int",
+    "value": 3926
+  },
+  {
+    "name": "zone_cooling_status",
+    "type": "float",
+    "value": 515.1
+  },
+  {
+    "name": "zone_fan_status",
+    "type": "string",
+    "value": "value_305"
+  },
+  {
+    "name": "zone_alarm",
+    "type": "byte",
+    "value": 89
+  },
+  {
+    "name": "power_active",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "power_reactive",
+    "type": "int",
+    "value": 3991
+  },
+  {
+    "name": "power_apparent",
+    "type": "float",
+    "value": 523.6
+  },
+  { 
+        "name": "thermal_pressure_002", 
+        "type": "double", 
+        "value": -452.9812 
+    }, 
+    { 
+        "name": "user_flag_003", 
+        "type": "boolean", 
+        "value": true 
+    }, 
+    { 
+        "name": "system_level_004", 
+        "type": "byte", 
+        "value": 189 
+    },
+    {
+        "name": "electrical_speed_002",
+        "type": "byte",
+        "value": 4
+    },
+    { 
+        "name": "electrical_speed_005", 
+        "type": "float", 
+        "value": 463.4517 
+    }, 
+    { 
+        "name": "nano_id_002", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_003", 
+        "type": "double", 
+        "value": -452.9812 
+    },
+    {
+        "name": "electrical_speed",
+        "type": "byte",
+        "value": 2
+    },
+    { 
+        "name": "electrical_speed_000", 
+        "type": "float", 
+        "value": 623.4187 
+    }, 
+    { 
+        "name": "nano_id_001", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_002", 
+        "type": "double", 
+        "value": -452.9812 
+    }, 
+    { 
+        "name": "user_flag_003", 
+        "type": "boolean", 
+        "value": true 
+    }, 
+    { 
+        "name": "system_level_004", 
+        "type": "byte", 
+        "value": 189 
+    },
+    {
+        "name": "electrical_speed_002",
+        "type": "byte",
+        "value": 4
+    },
+    { 
+        "name": "electrical_speed_005", 
+        "type": "float", 
+        "value": 463.4517 
+    }, 
+    { 
+        "name": "nano_id_002", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_003", 
+        "type": "double", 
+        "value": -452.9812 
+    },
+    {
+        "name": "electrical_speed",
+        "type": "byte",
+        "value": 2
+    },
+    { 
+        "name": "electrical_speed_000", 
+        "type": "float", 
+        "value": 623.4187 
+    }, 
+    { 
+        "name": "nano_id_001", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_002", 
+        "type": "double", 
+        "value": -452.9812 
+    }, 
+    { 
+        "name": "user_flag_003", 
+        "type": "boolean", 
+        "value": true 
+    }, 
+    { 
+        "name": "system_level_004", 
+        "type": "byte", 
+        "value": 189 
+    },
+    {
+        "name": "electrical_speed_002",
+        "type": "byte",
+        "value": 4
+    },
+    { 
+        "name": "electrical_speed_005", 
+        "type": "float", 
+        "value": 463.4517 
+    }, 
+    { 
+        "name": "nano_id_002", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_003", 
+        "type": "double", 
+        "value": -452.9812 
+    },
+    {
+        "name": "electrical_speed",
+        "type": "byte",
+        "value": 2
+    },
+    { 
+        "name": "electrical_speed_000", 
+        "type": "float", 
+        "value": 623.4187 
+    }, 
+    { 
+        "name": "nano_id_001", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_002", 
+        "type": "double", 
+        "value": -452.9812 
+    }, 
+    { 
+        "name": "user_flag_003", 
+        "type": "boolean", 
+        "value": true 
+    }, 
+    { 
+        "name": "system_level_004", 
+        "type": "byte", 
+        "value": 189 
+    },
+    {
+        "name": "electrical_speed_002",
+        "type": "byte",
+        "value": 4
+    },
+    { 
+        "name": "electrical_speed_005", 
+        "type": "float", 
+        "value": 463.4517 
+    }, 
+    { 
+        "name": "nano_id_002", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_003", 
+        "type": "double", 
+        "value": -452.9812 
+    },
+    {
+        "name": "electrical_speed",
+        "type": "byte",
+        "value": 2
+    },
+    { 
+        "name": "electrical_speed_000", 
+        "type": "float", 
+        "value": 623.4187 
+    }, 
+    { 
+        "name": "nano_id_001", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_002", 
+        "type": "double", 
+        "value": -452.9812 
+    }, 
+    { 
+        "name": "user_flag_003", 
+        "type": "boolean", 
+        "value": true 
+    }, 
+    { 
+        "name": "system_level_004", 
+        "type": "byte", 
+        "value": 189 
+    },
+    {
+        "name": "electrical_speed_002",
+        "type": "byte",
+        "value": 4
+    },
+    { 
+        "name": "electrical_speed_005", 
+        "type": "float", 
+        "value": 463.4517 
+    }, 
+    { 
+        "name": "nano_id_002", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_003", 
+        "type": "double", 
+        "value": -452.9812 
+    },
+    {
+        "name": "electrical_speed",
+        "type": "byte",
+        "value": 2
+    },
+    { 
+        "name": "electrical_speed_000", 
+        "type": "float", 
+        "value": 623.4187 
+    }, 
+    { 
+        "name": "nano_id_001", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_002", 
+        "type": "double", 
+        "value": -452.9812 
+    }, 
+    { 
+        "name": "user_flag_003", 
+        "type": "boolean", 
+        "value": true 
+    }, 
+    { 
+        "name": "system_level_004", 
+        "type": "byte", 
+        "value": 189 
+    },
+    {
+        "name": "electrical_speed_002",
+        "type": "byte",
+        "value": 4
+    },
+    { 
+        "name": "electrical_speed_005", 
+        "type": "float", 
+        "value": 463.4517 
+    }, 
+    { 
+        "name": "nano_id_002", 
+        "type": "int", 
+        "value": 2345 
+    }, 
+    { 
+        "name": "thermal_pressure_003", 
+        "type": "double", 
+        "value": -452.9812 
+    },
+    {
+    "name": "motor_speed",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "motor_current",
+    "type": "int",
+    "value": 26
+  },
+  {
+    "name": "motor_voltage",
+    "type": "float",
+    "value": 5.1
+  },
+  {
+    "name": "motor_power",
+    "type": "string",
+    "value": "value_005"
+  },
+  {
+    "name": "motor_torque",
+    "type": "byte",
+    "value": 37
+  },
+  {
+    "name": "dc_bus_voltage",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "phase_current_a",
+    "type": "int",
+    "value": 91
+  },
+  {
+    "name": "phase_current_b",
+    "type": "float",
+    "value": 13.6
+  },
+  {
+    "name": "phase_current_c",
+    "type": "string",
+    "value": "value_010"
+  },
+  {
+    "name": "phase_voltage_a",
+    "type": "byte",
+    "value": 72
+  },
+  {
+    "name": "phase_voltage_b",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "phase_voltage_c",
+    "type": "int",
+    "value": 156
+  },
+  {
+    "name": "frequency",
+    "type": "float",
+    "value": 22.1
+  },
+  {
+    "name": "power_factor",
+    "type": "string",
+    "value": "value_015"
+  },
+  {
+    "name": "active_power",
+    "type": "byte",
+    "value": 107
+  },
+  {
+    "name": "reactive_power",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "apparent_power",
+    "type": "int",
+    "value": 221
+  },
+  {
+    "name": "energy_total",
+    "type": "float",
+    "value": 30.6
+  },
+  {
+    "name": "energy_daily",
+    "type": "string",
+    "value": "value_020"
+  },
+  {
+    "name": "temperature_motor",
+    "type": "byte",
+    "value": 142
+  },
+  {
+    "name": "temperature_drive",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "temperature_ambient",
+    "type": "int",
+    "value": 286
+  },
+  {
+    "name": "temperature_heatsink",
+    "type": "float",
+    "value": 39.1
+  },
+  {
+    "name": "pressure_inlet",
+    "type": "string",
+    "value": "value_025"
+  },
+  {
+    "name": "pressure_outlet",
+    "type": "byte",
+    "value": 177
+  },
+  {
+    "name": "flow_rate",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "humidity",
+    "type": "int",
+    "value": 351
+  },
+  {
+    "name": "vibration_level",
+    "type": "float",
+    "value": 47.6
+  },
+  {
+    "name": "position_actual",
+    "type": "string",
+    "value": "value_030"
+  },
+  {
+    "name": "position_target",
+    "type": "byte",
+    "value": 212
+  },
+  {
+    "name": "velocity_actual",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "acceleration_actual",
+    "type": "int",
+    "value": 416
+  },
+  {
+    "name": "torque_limit",
+    "type": "float",
+    "value": 56.1
+  },
+  {
+    "name": "current_limit",
+    "type": "string",
+    "value": "value_035"
+  },
+  {
+    "name": "voltage_limit",
+    "type": "byte",
+    "value": 247
+  },
+  {
+    "name": "speed_limit",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "ramp_up_time",
+    "type": "int",
+    "value": 481
+  },
+  {
+    "name": "ramp_down_time",
+    "type": "float",
+    "value": 64.6
+  },
+  {
+    "name": "brake_status",
+    "type": "string",
+    "value": "value_040"
+  },
+  {
+    "name": "contactor_status",
+    "type": "byte",
+    "value": 26
+  },
+  {
+    "name": "relay_status",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "fault_code",
+    "type": "int",
+    "value": 546
+  },
+  {
+    "name": "warning_code",
+    "type": "float",
+    "value": 73.1
+  },
+  {
+    "name": "alarm_active",
+    "type": "string",
+    "value": "value_045"
+  },
+  {
+    "name": "ready_status",
+    "type": "byte",
+    "value": 61
+  },
+  {
+    "name": "running_status",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "enabled_status",
+    "type": "int",
+    "value": 611
+  },
+  {
+    "name": "remote_mode",
+    "type": "float",
+    "value": 81.6
+  },
+  {
+    "name": "local_mode",
+    "type": "string",
+    "value": "value_050"
+  },
+  {
+    "name": "communication_status",
+    "type": "byte",
+    "value": 96
+  },
+  {
+    "name": "network_quality",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "signal_strength",
+    "type": "int",
+    "value": 676
+  },
+  {
+    "name": "uptime_seconds",
+    "type": "float",
+    "value": 90.1
+  },
+  {
+    "name": "runtime_hours",
+    "type": "string",
+    "value": "value_055"
+  },
+  {
+    "name": "start_count",
+    "type": "byte",
+    "value": 131
+  },
+  {
+    "name": "stop_count",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "reset_count",
+    "type": "int",
+    "value": 741
+  },
+  {
+    "name": "firmware_version",
+    "type": "float",
+    "value": 98.6
+  },
+  {
+    "name": "hardware_revision",
+    "type": "string",
+    "value": "value_060"
+  },
+  {
+    "name": "device_address",
+    "type": "byte",
+    "value": 166
+  },
+  {
+    "name": "baud_rate",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "parity_mode",
+    "type": "int",
+    "value": 806
+  },
+  {
+    "name": "stop_bits",
+    "type": "float",
+    "value": 107.1
+  },
+  {
+    "name": "data_bits",
+    "type": "string",
+    "value": "value_065"
+  },
+  {
+    "name": "can_bus_status",
+    "type": "byte",
+    "value": 201
+  },
+  {
+    "name": "modbus_status",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "ethernet_status",
+    "type": "int",
+    "value": 871
+  },
+  {
+    "name": "wifi_status",
+    "type": "float",
+    "value": 115.6
+  },
+  {
+    "name": "sensor_status",
+    "type": "string",
+    "value": "value_070"
+  },
+  {
+    "name": "encoder_count",
+    "type": "byte",
+    "value": 236
+  },
+  {
+    "name": "encoder_resolution",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "gear_ratio",
+    "type": "int",
+    "value": 936
+  },
+  {
+    "name": "motor_poles",
+    "type": "float",
+    "value": 124.1
+  },
+  {
+    "name": "rated_current",
+    "type": "string",
+    "value": "value_075"
+  },
+  {
+    "name": "rated_voltage",
+    "type": "byte",
+    "value": 15
+  },
+  {
+    "name": "rated_power",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "rated_frequency",
+    "type": "int",
+    "value": 1001
+  },
+  {
+    "name": "rated_speed",
+    "type": "float",
+    "value": 132.6
+  },
+  {
+    "name": "rated_torque",
+    "type": "string",
+    "value": "value_080"
+  },
+  {
+    "name": "overload_threshold",
+    "type": "byte",
+    "value": 50
+  },
+  {
+    "name": "overtemperature_threshold",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "undervoltage_threshold",
+    "type": "int",
+    "value": 1066
+  },
+  {
+    "name": "overvoltage_threshold",
+    "type": "float",
+    "value": 141.1
+  },
+  {
+    "name": "overspeed_threshold",
+    "type": "string",
+    "value": "value_085"
+  },
+  {
+    "name": "undercurrent_threshold",
+    "type": "byte",
+    "value": 85
+  },
+  {
+    "name": "leakage_current",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "ground_fault_status",
+    "type": "int",
+    "value": 1131
+  },
+  {
+    "name": "phase_loss_status",
+    "type": "float",
+    "value": 149.6
+  },
+  {
+    "name": "short_circuit_status",
+    "type": "string",
+    "value": "value_090"
+  },
+  {
+    "name": "overload_status",
+    "type": "byte",
+    "value": 120
+  },
+  {
+    "name": "overtemperature_status",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "undervoltage_status",
+    "type": "int",
+    "value": 1196
+  },
+  {
+    "name": "overvoltage_status",
+    "type": "float",
+    "value": 158.1
+  },
+  {
+    "name": "overspeed_status",
+    "type": "string",
+    "value": "value_095"
+  },
+  {
+    "name": "emergency_stop_status",
+    "type": "byte",
+    "value": 155
+  },
+  {
+    "name": "door_interlock_status",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "safety_relay_status",
+    "type": "int",
+    "value": 1261
+  },
+  {
+    "name": "cooling_fan_status",
+    "type": "float",
+    "value": 166.6
+  },
+  {
+    "name": "pump_status",
+    "type": "string",
+    "value": "value_100"
+  },
+  {
+    "name": "valve_position",
+    "type": "byte",
+    "value": 190
+  },
+  {
+    "name": "valve_status",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "fan_speed",
+    "type": "int",
+    "value": 1326
+  },
+  {
+    "name": "pump_speed",
+    "type": "float",
+    "value": 175.1
+  },
+  {
+    "name": "filter_pressure",
+    "type": "string",
+    "value": "value_105"
+  },
+  {
+    "name": "tank_level",
+    "type": "byte",
+    "value": 225
+  },
+  {
+    "name": "water_temperature",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "oil_temperature",
+    "type": "int",
+    "value": 1391
+  },
+  {
+    "name": "coolant_temperature",
+    "type": "float",
+    "value": 183.6
+  },
+  {
+    "name": "bearing_temperature",
+    "type": "string",
+    "value": "value_110"
+  },
+  {
+    "name": "ambient_temperature",
+    "type": "byte",
+    "value": 4
+  },
+  {
+    "name": "dew_point",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "air_quality_index",
+    "type": "int",
+    "value": 1456
+  },
+  {
+    "name": "co2_level",
+    "type": "float",
+    "value": 192.1
+  },
+  {
+    "name": "voc_level",
+    "type": "string",
+    "value": "value_115"
+  },
+  {
+    "name": "light_level",
+    "type": "byte",
+    "value": 39
+  },
+  {
+    "name": "sound_level",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "occupancy_status",
+    "type": "int",
+    "value": 1521
+  },
+  {
+    "name": "door_status",
+    "type": "float",
+    "value": 200.6
+  },
+  {
+    "name": "window_status",
+    "type": "string",
+    "value": "value_120"
+  },
+  {
+    "name": "battery_voltage",
+    "type": "byte",
+    "value": 74
+  },
+  {
+    "name": "battery_current",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "battery_level",
+    "type": "int",
+    "value": 1586
+  },
+  {
+    "name": "charging_status",
+    "type": "float",
+    "value": 209.1
+  },
+  {
+    "name": "solar_power",
+    "type": "string",
+    "value": "value_125"
+  },
+  {
+    "name": "grid_voltage",
+    "type": "byte",
+    "value": 109
+  },
+  {
+    "name": "grid_frequency",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "inverter_status",
+    "type": "int",
+    "value": 1651
+  },
+  {
+    "name": "inverter_temperature",
+    "type": "float",
+    "value": 217.6
+  },
+  {
+    "name": "charge_power",
+    "type": "string",
+    "value": "value_130"
+  },
+  {
+    "name": "discharge_power",
+    "type": "byte",
+    "value": 144
+  },
+  {
+    "name": "state_of_charge",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "state_of_health",
+    "type": "int",
+    "value": 1716
+  },
+  {
+    "name": "cell_voltage_min",
+    "type": "float",
+    "value": 226.1
+  },
+  {
+    "name": "cell_voltage_max",
+    "type": "string",
+    "value": "value_135"
+  },
+  {
+    "name": "cell_temperature_min",
+    "type": "byte",
+    "value": 179
+  },
+  {
+    "name": "cell_temperature_max",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "insulation_resistance",
+    "type": "int",
+    "value": 1781
+  },
+  {
+    "name": "ground_resistance",
+    "type": "float",
+    "value": 234.6
+  },
+  {
+    "name": "load_percentage",
+    "type": "string",
+    "value": "value_140"
+  },
+  {
+    "name": "efficiency",
+    "type": "byte",
+    "value": 214
+  },
+  {
+    "name": "power_demand",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "power_limit",
+    "type": "int",
+    "value": 1846
+  },
+  {
+    "name": "energy_import",
+    "type": "float",
+    "value": 243.1
+  },
+  {
+    "name": "energy_export",
+    "type": "string",
+    "value": "value_145"
+  },
+  {
+    "name": "reactive_energy",
+    "type": "byte",
+    "value": 249
+  },
+  {
+    "name": "apparent_energy",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "demand_peak",
+    "type": "int",
+    "value": 1911
+  },
+  {
+    "name": "tariff_id",
+    "type": "float",
+    "value": 251.6
+  },
+  {
+    "name": "meter_status",
+    "type": "string",
+    "value": "value_150"
+  },
+  {
+    "name": "meter_serial",
+    "type": "byte",
+    "value": 28
+  },
+  {
+    "name": "sensor_01_value",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "sensor_02_value",
+    "type": "int",
+    "value": 1976
+  },
+  {
+    "name": "sensor_03_value",
+    "type": "float",
+    "value": 260.1
+  },
+  {
+    "name": "sensor_04_value",
+    "type": "string",
+    "value": "value_155"
+  },
+  {
+    "name": "sensor_05_value",
+    "type": "byte",
+    "value": 63
+  },
+  {
+    "name": "input_01_status",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "input_02_status",
+    "type": "int",
+    "value": 2041
+  },
+  {
+    "name": "input_03_status",
+    "type": "float",
+    "value": 268.6
+  },
+  {
+    "name": "input_04_status",
+    "type": "string",
+    "value": "value_160"
+  },
+  {
+    "name": "input_05_status",
+    "type": "byte",
+    "value": 98
+  },
+  {
+    "name": "output_01_status",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "output_02_status",
+    "type": "int",
+    "value": 2106
+  },
+  {
+    "name": "output_03_status",
+    "type": "float",
+    "value": 277.1
+  },
+  {
+    "name": "output_04_status",
+    "type": "string",
+    "value": "value_165"
+  },
+  {
+    "name": "output_05_status",
+    "type": "byte",
+    "value": 133
+  },
+  {
+    "name": "analog_input_01",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "analog_input_02",
+    "type": "int",
+    "value": 2171
+  },
+  {
+    "name": "analog_input_03",
+    "type": "float",
+    "value": 285.6
+  },
+  {
+    "name": "analog_input_04",
+    "type": "string",
+    "value": "value_170"
+  },
+  {
+    "name": "analog_input_05",
+    "type": "byte",
+    "value": 168
+  },
+  {
+    "name": "analog_output_01",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "analog_output_02",
+    "type": "int",
+    "value": 2236
+  },
+  {
+    "name": "analog_output_03",
+    "type": "float",
+    "value": 294.1
+  },
+  {
+    "name": "analog_output_04",
+    "type": "string",
+    "value": "value_175"
+  },
+  {
+    "name": "analog_output_05",
+    "type": "byte",
+    "value": 203
+  },
+  {
+    "name": "setpoint_speed",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "setpoint_torque",
+    "type": "int",
+    "value": 2301
+  },
+  {
+    "name": "setpoint_current",
+    "type": "float",
+    "value": 302.6
+  },
+  {
+    "name": "setpoint_voltage",
+    "type": "string",
+    "value": "value_180"
+  },
+  {
+    "name": "setpoint_pressure",
+    "type": "byte",
+    "value": 238
+  },
+  {
+    "name": "setpoint_temperature",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "setpoint_flow",
+    "type": "int",
+    "value": 2366
+  },
+  {
+    "name": "setpoint_position",
+    "type": "float",
+    "value": 311.1
+  },
+  {
+    "name": "setpoint_frequency",
+    "type": "string",
+    "value": "value_185"
+  },
+  {
+    "name": "setpoint_power",
+    "type": "byte",
+    "value": 17
+  },
+  {
+    "name": "control_mode",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "operation_mode",
+    "type": "int",
+    "value": 2431
+  },
+  {
+    "name": "direction_command",
+    "type": "float",
+    "value": 319.6
+  },
+  {
+    "name": "start_command",
+    "type": "string",
+    "value": "value_190"
+  },
+  {
+    "name": "stop_command",
+    "type": "byte",
+    "value": 52
+  },
+  {
+    "name": "reset_command",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "enable_command",
+    "type": "int",
+    "value": 2496
+  },
+  {
+    "name": "jog_command",
+    "type": "float",
+    "value": 328.1
+  },
+  {
+    "name": "brake_command",
+    "type": "string",
+    "value": "value_195"
+  },
+  {
+    "name": "acknowledge_command",
+    "type": "byte",
+    "value": 87
+  },
+  {
+    "name": "motor_temperature",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "motor_current",
+    "type": "int",
+    "value": 2561
+  },
+  {
+    "name": "motor_voltage",
+    "type": "float",
+    "value": 336.6
+  },
+  {
+    "name": "motor_speed",
+    "type": "string",
+    "value": "value_200"
+  },
+  {
+    "name": "motor_torque",
+    "type": "byte",
+    "value": 122
+  },
+  {
+    "name": "motor_power",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "motor_status",
+    "type": "int",
+    "value": 2626
+  },
+  {
+    "name": "motor_fault",
+    "type": "float",
+    "value": 345.1
+  },
+  {
+    "name": "motor_warning",
+    "type": "string",
+    "value": "value_205"
+  },
+  {
+    "name": "motor_runtime",
+    "type": "byte",
+    "value": 157
+  },
+  {
+    "name": "drive_temperature",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "drive_current",
+    "type": "int",
+    "value": 2691
+  },
+  {
+    "name": "drive_voltage",
+    "type": "float",
+    "value": 353.6
+  },
+  {
+    "name": "drive_frequency",
+    "type": "string",
+    "value": "value_210"
+  },
+  {
+    "name": "drive_speed",
+    "type": "byte",
+    "value": 192
+  },
+  {
+    "name": "drive_power",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "drive_status",
+    "type": "int",
+    "value": 2756
+  },
+  {
+    "name": "drive_fault",
+    "type": "float",
+    "value": 362.1
+  },
+  {
+    "name": "drive_warning",
+    "type": "string",
+    "value": "value_215"
+  },
+  {
+    "name": "drive_load",
+    "type": "byte",
+    "value": 227
+  },
+  {
+    "name": "sensor_value",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "sensor_status",
+    "type": "int",
+    "value": 2821
+  },
+  {
+    "name": "sensor_raw_value",
+    "type": "float",
+    "value": 370.6
+  },
+  {
+    "name": "sensor_scaled_value",
+    "type": "string",
+    "value": "value_220"
+  },
+  {
+    "name": "sensor_quality",
+    "type": "byte",
+    "value": 6
+  },
+  {
+    "name": "sensor_offset",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "sensor_gain",
+    "type": "int",
+    "value": 2886
+  },
+  {
+    "name": "sensor_threshold",
+    "type": "float",
+    "value": 379.1
+  },
+  {
+    "name": "sensor_min_value",
+    "type": "string",
+    "value": "value_225"
+  },
+  {
+    "name": "sensor_max_value",
+    "type": "byte",
+    "value": 41
+  },
+  {
+    "name": "channel_input_status",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "channel_output_status",
+    "type": "int",
+    "value": 2951
+  },
+  {
+    "name": "channel_analog_value",
+    "type": "float",
+    "value": 387.6
+  },
+  {
+    "name": "channel_digital_value",
+    "type": "string",
+    "value": "value_230"
+  },
+  {
+    "name": "channel_alarm",
+    "type": "byte",
+    "value": 76
+  },
+  {
+    "name": "channel_warning",
+    "type": "bool",
+    "value": true
+  },
+  {
+    "name": "channel_threshold",
+    "type": "int",
+    "value": 3016
+  },
+  {
+    "name": "channel_scale",
+    "type": "float",
+    "value": 396.1
+  },
+  {
+    "name": "channel_offset",
+    "type": "string",
+    "value": "value_235"
+  },
+  {
+    "name": "channel_quality",
+    "type": "byte",
+    "value": 111
+  },
+  {
+    "name": "axis_position",
+    "type": "bool",
+    "value": false
+  },
+  {
+    "name": "axis_velocity",
+    "type": "int",
+    "value": 3081
+  },
+  {
+    "name": "axis_acceleration",
+    "type": "float",
+    "value": 404.6
+  }
+]

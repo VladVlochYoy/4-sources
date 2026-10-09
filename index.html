@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TZ2V74FGQW"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-T9YZP532PT"></script>
+    <script src="sites.js"></script>
+</head>
+<body>
+    <p>Live reload enabled.</p>
+    <script>
+        class Object{
+            constructor(type, name, value) {
+                this.type = type
+                this.name = name
+                this.value = value
+            }
+        }
+
+        let a = new Object("byte", "electrical_speed", "2")
+        console.log(a)
+
+        fetch('.env')
+        const SOURCES = [
+            {
+                name: "google-source-1",
+                url: window.env.GOOGLE_SOURCE_1_URL
+            },
+            {
+                name: "google-source-2",
+                url: window.env.GOOGLE_SOURCE_2_URL
+            },
+            {
+                name: "google-source-3",
+                url: window.env.GOOGLE_SOURCE_3_URL
+            },
+            {
+                name: "google-source-4",
+                url: window.env.GOOGLE_SOURCE_4_URL
+            },
+            {
+                source: "google-source-1",
+                externalId: "...",
+                value: 123,
+                timestamp: "2026-10-08T19:00:00.000Z"
+            },
+            {
+                source: "google-source-2",
+                externalId: "...",
+                value: 123,
+                timestamp: "2026-10-08T19:00:00.000Z"
+            },
+            {
+                source: "google-source-3",
+                externalId: "...",
+                value: 123,
+                timestamp: "2026-10-08T19:00:00.000Z"
+            },
+            {
+                source: "google-source-4",
+                externalId: "...",
+                value: 123,
+                timestamp: "2026-10-08T19:00:00.000Z"
+            }
+        ];
+
+        fetch('objects.json')
+        .then(response => {
+          if (!response.ok) throw new Error('Ошибка сети или файл не найден');
+          return response.json();
+        })
+        .then(data => {
+          console.log('Данные из JSON:', data);
+          document.getElementById('output').textContent = JSON.stringify(data, null, 2);
+        })
+        .catch(err => {
+          console.error('Ошибка:', err);
+          document.getElementById('output').textContent = 'Ошибка загрузки данных';
+        });
+
+        fetch("/api/stats")
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById("valid").textContent = data.valid;
+            document.getElementById("invalid").textContent = data.invalid;
+        });
+
+        function validateObject(obj) {
+            const errors = [];
+
+            if (!obj.externalId) {
+                errors.push("externalId is required");
+            }
+
+            if (typeof obj.value !== "number") {
+                errors.push("value must be a number");
+            }
+
+            if (obj.value < 100 || obj.value > 600) {
+                errors.push("value must be between 100 and 600");
+            }
+
+            if (!obj.timestamp || isNaN(Date.parse(obj.timestamp))) {
+                errors.push("invalid timestamp");
+            }
+
+            return {
+                valid: errors.length === 0,
+                errors
+            };
+        }
+
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-TZ2V74FGQW');
+        gtag('config', 'G-T9YZP532PT');
+    </script>
+</body>
+</html>
